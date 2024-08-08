@@ -6,3 +6,5 @@
 12.Python Operators
 """
 print("hello world")
+print("enjoy Python")
+print("Python is awesome")
